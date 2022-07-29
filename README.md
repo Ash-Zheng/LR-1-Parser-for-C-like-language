@@ -2,7 +2,7 @@
 
 This our final assignment for Compilers Course.
 
-### 类C语言文法
+### C-like Grammar
 
 >Program ::= <类型> < ID>’(‘ ‘)’<语句块> 
 >
@@ -46,7 +46,7 @@ This our final assignment for Compilers Course.
 
 
 
-### Action表和Goto表输出格式：
+### Action Table and Goto Table format：
 
 ```c++
  Action Table & GoTo Table:
